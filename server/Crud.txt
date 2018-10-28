@@ -1,0 +1,31 @@
+
+//todos :name collectioni ke ma dar paygahe dadae khahim dasht 
+
+// var newTodo=new Todo({
+//     Text:"   Edit this video       "
+// })
+// newTodo.save().then((doc)=>{
+//     console.log(JSON.stringify(doc,undefined,2))
+// },(err)=>{
+//     console.log('Unable to save todo',err)
+// })
+
+// var otherTodo=new Todo({
+//     Text:'Eat lunch',
+//     completed:true,
+//     completedAt:123
+// })
+// otherTodo.save().then((doc)=>{
+//     console.log(JSON.stringify(doc,undefined,2))
+// },(err)=>{ 
+//     console.log('Unable to save todo',err)
+// }) 
+
+// var user=new User({
+//     email:"info@roxo.ir"
+// })
+// user.save().then((doc)=>{
+//     console.log('User saved ',doc);
+// },(err)=>{
+//     console.log('Unnable to save User',err)
+// })
